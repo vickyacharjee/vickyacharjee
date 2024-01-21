@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Vicky Acharjee</h1>
 <h3 align="center">Frontend Developer (HTML,CSS,JS,Bootstrap,React) | MySql | DSA | JAVA</h3>
 
@@ -15,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/authwall?trk=bf&trkinfo=aqhk195fxrnw-waaaydqfp2ii3yijgavjzhadii45uxzsif2yba9y-ayzlevvphxc_kc0wqtkr2vcxqexzcykhvyj-cquvgm3rst9rlfx9qmshiaomz_rhvhf-hvv2sd7qsm1sk=&original_referer=&sessionredirect=https%3a%2f%2fwww.linkedin.com%2fin%2fvicky-acharjee-2b8801230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/authwall?trk=bf&trkinfo=aqhk195fxrnw-waaaydqfp2ii3yijgavjzhadii45uxzsif2yba9y-ayzlevvphxc_kc0wqtkr2vcxqexzcykhvyj-cquvgm3rst9rlfx9qmshiaomz_rhvhf-hvv2sd7qsm1sk=&original_referer=&sessionredirect=https%3a%2f%2fwww.linkedin.com%2fin%2fvicky-acharjee-2b8801230" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucy1j8vj8f1zdveae08-zwyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy1j8vj8f1zdveae08-zwyq" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vickyacharjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vickyacharjee/" height="30" width="40" /></a>
+<a href="https://leetcode.com/vickyacharjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vickyacharjee/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vickyachaf73r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vickyachaf73r" height="30" width="40" /></a>
 </p>
 
