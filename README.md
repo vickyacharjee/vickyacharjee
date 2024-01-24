@@ -1,4 +1,4 @@
-### Hey 👋, I'm Vicky Acharjee!  
+# Hey 👋, I'm Vicky Acharjee!  
   
 
 A web developer enthusiastic about creating captivating websites. My journey involves crafting seamless user experiences and exploring innovative approaches to web development.   
@@ -12,7 +12,7 @@ A web developer enthusiastic about creating captivating websites. My journey inv
 
 - At the moment, I'm immersed in learning the intricacies of backend development to craft powerful and scalable server-side solutions."  
   
-- Actively available at [opencommunity.club](https://github.com/your-username)
+- Actively available at [opencommunity.club](https://opencommunity.club)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
