@@ -87,4 +87,4 @@ A web developer enthusiastic about creating captivating websites. My journey inv
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+    
