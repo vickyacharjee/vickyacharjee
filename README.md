@@ -12,6 +12,7 @@ A web developer enthusiastic about creating captivating websites. My journey inv
 
 - At the moment, I'm immersed in learning the intricacies of backend development to craft powerful and scalable server-side solutions."  
   
+- Actively available at <a href="https://open-community-2023.netlify.app" target="_blank">
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
