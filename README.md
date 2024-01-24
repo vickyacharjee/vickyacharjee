@@ -19,7 +19,7 @@ A web developer enthusiastic about creating captivating websites. My journey inv
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://open-community-2023.netlify.app/assets/img/logos/logo.png" align="center" style="width: 100%" />
 </div>  
 
 
