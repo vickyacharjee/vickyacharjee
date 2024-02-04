@@ -1,4 +1,4 @@
-# Hey 👋, I'm Vicky Acharjee!  
+# Hey there👋, I'm Vicky Acharjee!  
   
 
 A web developer enthusiastic about creating captivating websites. My journey involves crafting seamless user experiences and exploring innovative approaches to web development.   
